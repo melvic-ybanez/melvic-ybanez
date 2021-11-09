@@ -1,6 +1,13 @@
 ### Gallery
 
-<img src="https://raw.githubusercontent.com/melvic-ybanez/erena/screenshots/screenshots/erena.png" width="500" alt="Erena" /> <img src="https://raw.githubusercontent.com/melvic-ybanez/nostalgia/screenshots/screenshots/nostalgia.png" width="450" alt="Sample Human Vs Human Game" /> <img src="https://raw.githubusercontent.com/melvic-ybanez/esena/screenshots/screenshots/esena.png?" width="500" alt="Esena" />
+#### Erena
+<img src="https://raw.githubusercontent.com/melvic-ybanez/erena/screenshots/screenshots/erena.png" width="500" alt="Erena" /> 
+
+#### Nostalgia
+<img src="https://raw.githubusercontent.com/melvic-ybanez/nostalgia/screenshots/screenshots/nostalgia.png" width="500" alt="Sample Human Vs Human Game" /> 
+
+#### Esena
+<img src="https://raw.githubusercontent.com/melvic-ybanez/esena/screenshots/screenshots/esena.png?" width="500" alt="Esena" />
 
 <!--
 **melvic-ybanez/melvic-ybanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
