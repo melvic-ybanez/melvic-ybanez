@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/melvic-ybanez/erena/screenshots/screenshots/erena.png" width="400" alt="Erena" /> <img src="https://raw.githubusercontent.com/melvic-ybanez/esena/screenshots/screenshots/esena.png?" width="400" alt="Esena" />
 <img src="https://raw.githubusercontent.com/melvic-ybanez/nostalgia/screenshots/screenshots/nostalgia.png" width="400" alt="Sample Human Vs Human Game" /> 
+<img src="https://user-images.githubusercontent.com/4519785/164452479-de207458-e69d-49a8-9011-4c367e4e3907.png" width="400" alt="Chi" />
 
 <!--
 **melvic-ybanez/melvic-ybanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
