@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td>Ecena</td><td>Erena</td>
+    <td><a href="https://github.com/melvic-ybanez/ecena">Ecena</a></td><td><a href="https://github.com/melvic-ybanez/erena">Erena</a></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/4519785/213571211-e6ebb123-5b34-4b79-94f9-b1df9369bf5a.png" width=500 alt="Ecena" /></td>
     <td><img src="https://raw.githubusercontent.com/melvic-ybanez/erena/screenshots/screenshots/erena.png" width=500 alt="Erena" /></tr>
   </tr>  
   <tr>
-    <td>Nostalgia</td><td>Chi</td>  
+    <td><a href="https://github.com/melvic-ybanez/nostalgia">Nostalgia</a></td><td><a href="https://github.com/melvic-ybanez/chi">Chi</a></td>  
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/melvic-ybanez/nostalgia/screenshots/screenshots/nostalgia.png" alt="Sample Human Vs Human Game" width=500 /></td>
