@@ -5,7 +5,7 @@
     <td><a href="https://github.com/melvic-ybanez/ecena">Ecena</a></td><td><a href="https://github.com/melvic-ybanez/erena">Erena</a></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/4519785/213571211-e6ebb123-5b34-4b79-94f9-b1df9369bf5a.png" width=500 alt="Ecena" /></td>
+    <td><img src="https://user-images.githubusercontent.com/4519785/219721638-855584bc-06f4-4ad7-aac9-5ccaa6bc10c6.png" width=500 alt="Ecena" /></td>
     <td><img src="https://raw.githubusercontent.com/melvic-ybanez/erena/screenshots/screenshots/erena.png" width=500 alt="Erena" /></tr>
   </tr>  
   <tr>
