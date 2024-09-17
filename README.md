@@ -21,6 +21,6 @@
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/4519785/278334251-772dedf3-3ab6-4410-b82f-03ced48e5f44.png" alt="Dry" width=500></td>
-    <td><img src="https://github.com/user-attachments/assets/4a5a6f3b-bea6-4c19-848d-0724a754ad51" alt="Lohika" width=500></td>
+    <td><img src="https://github.com/user-attachments/assets/f5460db2-329a-442f-8e16-272edf6c22db" alt="Lohika" width=500></td>
   </tr>
 </table>  
